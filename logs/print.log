@@ -1,0 +1,6 @@
+10:20:11.856 [main] INFO  Resources.Base - Driver is initialised
+10:20:27.969 [main] INFO  Resources.Base - Navigated to url
+10:20:42.034 [main] INFO  Resources.Base - Is displayed
+10:20:52.296 [main] INFO  Resources.Base - Succesfully navigated
+10:21:02.108 [main] INFO  Resources.Base - Succesfully CLICKED
+10:21:02.612 [main] INFO  Resources.Base - Succesfully CLLICKED FRGT PSWD
